@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LatihanFragment</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pindah_fragment_satu">Pindah Fragment Satu</string>
+    <string name="ini_fragment_satu">Ini Fragment Satu</string>
+    <string name="pindah_fragment_dua">Pindah Fragment Dua</string>
+</resources>
